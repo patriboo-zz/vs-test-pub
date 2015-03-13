@@ -1,3 +1,3 @@
-﻿select 'hello world, i am the master pushing to you'
+﻿select 'hello world, i am the new measure'
 
 select 'weep at my feet'
